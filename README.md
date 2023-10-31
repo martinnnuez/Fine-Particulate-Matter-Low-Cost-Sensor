@@ -45,4 +45,6 @@
     <img width="500" src="https://github.com/martinnnuez/Tesis-Doctorado/blob/master/images/imagescap2/SensorDentro.jpg" alt="Sensor de bajo costo desarrollado">
 </p>
 
-* **Codigo arduino**
+* **Codigo arduino:**
+    * Sensor PMS1003: [PMS1003](https://github.com/martinnnuez/Fine-Particulate-Matter-Low-Cost-Sensor/blob/main/CodigoSensorPMS1003.ino)
+    * Sensor SDS011: [SDS011](https://github.com/martinnnuez/Fine-Particulate-Matter-Low-Cost-Sensor/blob/main/CogidoSensorSDS011.ino)
